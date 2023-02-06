@@ -4,7 +4,7 @@ We're only given an access to a web interface, we can submit `.py` files and the
 
 ![image](https://user-images.githubusercontent.com/114584910/216975124-3908458f-8dbe-4372-9d61-be58c8f0f21a.png)
 
-There's a `template.py` which reveals that some challenges are really impossible (for me, it may be possible to recover the random seed given enough output):
+There's a `template.py` which reveals that some challenges are really impossible (for me):
 
 ```py
 def magic():
